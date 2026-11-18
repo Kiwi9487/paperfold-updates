@@ -1,18 +1,20 @@
 {
   "schema": 1,
-  "versionCode": 6,
-  "versionName": "1.4.0",
-  "apkUrl": "Paperfold-v1.4.0.apk",
-  "sha256": "49f74ad1a67648a859c462daea64cf40d73fc9293dd6733d20cc20a4ca8fa99c",
-  "size": 3564346,
+  "versionCode": 7,
+  "versionName": "1.4.1",
+  "apkUrl": "Paperfold-v1.4.1.apk",
+  "sha256": "3cbe462f798ca7a001facdced9b1d68808f73b484f27de943b0996225cac6a9b",
+  "size": 3565513,
   "minSdk": 29,
-  "publishedAt": "2026-11-16",
+  "publishedAt": "2026-11-18",
   "notes": {
     "zh": [
-      "当前版本 1.4.0：在线更新、拖拽与页序修正。"
+      "默认更新源已指向 GitHub，之后可直接在手机上检查新版本。",
+      "在线下载、SHA-256 与签名校验、手动安装保持不变。"
     ],
     "es": [
-      "Versión actual 1.4.0: actualización en línea, arrastre y orden de páginas."
+      "La fuente de actualización ya apunta a GitHub; a partir de ahora puedes buscar versiones nuevas desde el móvil.",
+      "La descarga en línea, SHA-256, la firma y la instalación manual no cambian."
     ]
   }
 }
