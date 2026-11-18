@@ -1,20 +1,22 @@
 {
   "schema": 1,
-  "versionCode": 7,
-  "versionName": "1.4.1",
-  "apkUrl": "Paperfold-v1.4.1.apk",
-  "sha256": "db210c5324758cdf3388714011f2030904e7c09a92b29de582bc754634d1b362",
-  "size": 3565511,
+  "versionCode": 8,
+  "versionName": "1.4.2",
+  "apkUrl": "Paperfold-v1.4.2.apk",
+  "sha256": "80d74997c33998d744f5f77b00a1136b0b896a7f2dbb3a749e61eb3ae1366135",
+  "size": 3567313,
   "minSdk": 29,
   "publishedAt": "2026-11-18",
   "notes": {
     "zh": [
-      "默认更新源已指向 GitHub，之后可直接在手机上检查新版本。",
-      "在线下载、SHA-256 与签名校验、手动安装保持不变。"
+      "修复分享单文件时的崩溃风险，并尽量保留读取权限。",
+      "PDF → JPG 仍按 001、002… 严格命名；日期字段按页序写入，相册排序仍由系统决定。",
+      "预览限制像素，缩略图缓存按真实内存计算；版式面板可滚动，取消更新不再误报网络错误。"
     ],
     "es": [
-      "La fuente de actualización ya apunta a GitHub; a partir de ahora puedes buscar versiones nuevas desde el móvil.",
-      "La descarga en línea, SHA-256, la firma y la instalación manual no cambian."
+      "Se corrige un posible fallo al compartir un solo archivo y se conserva el permiso de lectura cuando es posible.",
+      "PDF → JPG sigue usando 001, 002…; las fechas se escriben en orden de página, pero la galería decide cómo ordenar.",
+      "La vista previa limita píxeles, la caché usa memoria real, el panel de diseño se desplaza y cancelar la actualización ya no se muestra como error de red."
     ]
   }
 }
