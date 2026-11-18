@@ -1,22 +1,22 @@
 {
   "schema": 1,
-  "versionCode": 8,
-  "versionName": "1.4.2",
-  "apkUrl": "https://raw.githubusercontent.com/Kiwi9487/paperfold-updates/main/Paperfold-v1.4.2-a40e34.apk",
-  "sha256": "a40e343de0d77f8da66800db47039259bfb59767ea33fad065221dc7e5ef70c6",
-  "size": 3567463,
+  "versionCode": 9,
+  "versionName": "1.4.3",
+  "apkUrl": "https://raw.githubusercontent.com/Kiwi9487/paperfold-updates/main/Paperfold-v1.4.3-ea502b.apk",
+  "sha256": "ea502baadd45c7107906c1f43f16b2429f79683f127bcd9d3f7b3241b6839734",
+  "size": 3568908,
   "minSdk": 29,
   "publishedAt": "2026-11-18",
   "notes": {
     "zh": [
-      "修复分享单文件时的崩溃风险，并尽量保留读取权限。",
-      "PDF → JPG 仍按 001、002… 严格命名；日期字段按页序写入，相册排序仍由系统决定。",
-      "预览限制像素，缩略图缓存按真实内存计算；版式面板可滚动，取消更新不再误报网络错误。"
+      "首页第一帧不再留白，PDF 与 JPG 入口直接可见。",
+      "底部导航增加柔和渐隐，滚动内容不再和导航文字挤在一起。",
+      "扩大拖拽、作品菜单与排序按钮的触控面积；窄屏筛选条可横向滑动。"
     ],
     "es": [
-      "Se corrige un posible fallo al compartir un solo archivo y se conserva el permiso de lectura cuando es posible.",
-      "PDF → JPG sigue usando 001, 002…; las fechas se escriben en orden de página, pero la galería decide cómo ordenar.",
-      "La vista previa limita píxeles, la caché usa memoria real, el panel de diseño se desplaza y cancelar la actualización ya no se muestra como error de red."
+      "La portada ya no deja un hueco en el primer frame; las entradas PDF y JPG se ven de inmediato.",
+      "La barra inferior tiene un degradado suave para que el contenido no choque con sus etiquetas.",
+      "Más área táctil en el arrastre, el menú de trabajos y el botón de orden; los filtros se desplazan en pantallas estrechas."
     ]
   }
 }
