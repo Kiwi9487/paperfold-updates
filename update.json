@@ -2,9 +2,9 @@
   "schema": 1,
   "versionCode": 8,
   "versionName": "1.4.2",
-  "apkUrl": "Paperfold-v1.4.2.apk",
-  "sha256": "70ed1df6188bbde0f9d04487b11cdf9963f27eacd4ff64dabbbd7d683a3a46eb",
-  "size": 3567308,
+  "apkUrl": "https://raw.githubusercontent.com/Kiwi9487/paperfold-updates/main/Paperfold-v1.4.2-90e134.apk",
+  "sha256": "90e134afa68066985afff6e2a75e0df433fe80cea6613adab1854cfafb1654b1",
+  "size": 3567302,
   "minSdk": 29,
   "publishedAt": "2026-11-18",
   "notes": {
