@@ -1,22 +1,22 @@
 {
   "schema": 1,
-  "versionCode": 11,
-  "versionName": "1.4.5",
-  "apkUrl": "https://raw.githubusercontent.com/Kiwi9487/paperfold-updates/main/Paperfold-v1.4.5-78bdde.apk",
-  "sha256": "78bddefd258e816b95541933a0bb8c5b519eba1d32a4752fef216625701ab79d",
-  "size": 3661750,
+  "versionCode": 12,
+  "versionName": "1.4.6",
+  "apkUrl": "https://raw.githubusercontent.com/Kiwi9487/paperfold-updates/main/Paperfold-v1.4.6-425867.apk",
+  "sha256": "425867a23929c002d0ff84666efb2d7796ef23a92ab3f7db14047d8abfc9326a",
+  "size": 3679603,
   "minSdk": 29,
   "publishedAt": "2026-11-20",
   "notes": {
     "zh": [
-      "新增独立压缩文件功能，支持 PDF 和图片。",
-      "PDF 逐页渲染压缩并保留页数/页面尺寸；图片重新编码为 JPEG。",
-      "结果展示原大小、压缩后大小与节省比例，并进入作品档案。"
+      "页面多选、筛选、压缩强度和预设的状态切换更平滑。",
+      "首页压缩插画加入轻微呼吸动效；图片预览与结果查看器淡入缩放。",
+      "保留 1.4.5 的独立压缩与 1.4.4 的 PDF 压缩。"
     ],
     "es": [
-      "Nueva función independiente para comprimir PDF e imágenes.",
-      "Los PDF se rasterizan por página manteniendo páginas y tamaño; las imágenes se recodifican en JPEG.",
-      "El resultado muestra tamaño original, comprimido y ahorro, y se guarda en trabajos."
+      "Transiciones más suaves en selección de páginas, filtros, compresión y presets.",
+      "La ilustración de compresión respira; previsualización y visor aparecen con fundido y escala.",
+      "Se mantienen la compresión de 1.4.5 y el PDF compacto de 1.4.4."
     ]
   }
 }
