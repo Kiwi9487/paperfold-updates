@@ -1,22 +1,22 @@
 {
   "schema": 1,
-  "versionCode": 10,
-  "versionName": "1.4.4",
-  "apkUrl": "https://raw.githubusercontent.com/Kiwi9487/paperfold-updates/main/Paperfold-v1.4.4-25f032.apk",
-  "sha256": "25f03297f985e63336865fc5aa6c46adde5dce3e3f8ab288fbce7b19632198ab",
-  "size": 3570054,
+  "versionCode": 11,
+  "versionName": "1.4.5",
+  "apkUrl": "https://raw.githubusercontent.com/Kiwi9487/paperfold-updates/main/Paperfold-v1.4.5-78bdde.apk",
+  "sha256": "78bddefd258e816b95541933a0bb8c5b519eba1d32a4752fef216625701ab79d",
+  "size": 3661750,
   "minSdk": 29,
   "publishedAt": "2026-11-20",
   "notes": {
     "zh": [
-      "JPG → PDF 改为逐页 JPEG 嵌入，文件更小；图片多时自动使用更强的压缩。",
-      "每页编码和写入实时更新进度，不再在 97% 停留。",
-      "保留 1.4.3 的首页、底部导航、触控与窄屏优化。"
+      "新增独立压缩文件功能，支持 PDF 和图片。",
+      "PDF 逐页渲染压缩并保留页数/页面尺寸；图片重新编码为 JPEG。",
+      "结果展示原大小、压缩后大小与节省比例，并进入作品档案。"
     ],
     "es": [
-      "JPG → PDF incrusta cada página como JPEG: archivos más ligeros y compresión automática cuando hay muchas imágenes.",
-      "El progreso avanza al codificar y escribir cada página; se acabó la pausa en el 97 %.",
-      "Se mantienen las mejoras de portada, barra inferior, área táctil y pantallas estrechas de 1.4.3."
+      "Nueva función independiente para comprimir PDF e imágenes.",
+      "Los PDF se rasterizan por página manteniendo páginas y tamaño; las imágenes se recodifican en JPEG.",
+      "El resultado muestra tamaño original, comprimido y ahorro, y se guarda en trabajos."
     ]
   }
 }
