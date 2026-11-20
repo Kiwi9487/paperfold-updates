@@ -1,22 +1,22 @@
 {
   "schema": 1,
-  "versionCode": 9,
-  "versionName": "1.4.3",
-  "apkUrl": "https://raw.githubusercontent.com/Kiwi9487/paperfold-updates/main/Paperfold-v1.4.3-ea502b.apk",
-  "sha256": "ea502baadd45c7107906c1f43f16b2429f79683f127bcd9d3f7b3241b6839734",
-  "size": 3568908,
+  "versionCode": 10,
+  "versionName": "1.4.4",
+  "apkUrl": "https://raw.githubusercontent.com/Kiwi9487/paperfold-updates/main/Paperfold-v1.4.4-25f032.apk",
+  "sha256": "25f03297f985e63336865fc5aa6c46adde5dce3e3f8ab288fbce7b19632198ab",
+  "size": 3570054,
   "minSdk": 29,
-  "publishedAt": "2026-11-18",
+  "publishedAt": "2026-11-20",
   "notes": {
     "zh": [
-      "首页第一帧不再留白，PDF 与 JPG 入口直接可见。",
-      "底部导航增加柔和渐隐，滚动内容不再和导航文字挤在一起。",
-      "扩大拖拽、作品菜单与排序按钮的触控面积；窄屏筛选条可横向滑动。"
+      "JPG → PDF 改为逐页 JPEG 嵌入，文件更小；图片多时自动使用更强的压缩。",
+      "每页编码和写入实时更新进度，不再在 97% 停留。",
+      "保留 1.4.3 的首页、底部导航、触控与窄屏优化。"
     ],
     "es": [
-      "La portada ya no deja un hueco en el primer frame; las entradas PDF y JPG se ven de inmediato.",
-      "La barra inferior tiene un degradado suave para que el contenido no choque con sus etiquetas.",
-      "Más área táctil en el arrastre, el menú de trabajos y el botón de orden; los filtros se desplazan en pantallas estrechas."
+      "JPG → PDF incrusta cada página como JPEG: archivos más ligeros y compresión automática cuando hay muchas imágenes.",
+      "El progreso avanza al codificar y escribir cada página; se acabó la pausa en el 97 %.",
+      "Se mantienen las mejoras de portada, barra inferior, área táctil y pantallas estrechas de 1.4.3."
     ]
   }
 }
